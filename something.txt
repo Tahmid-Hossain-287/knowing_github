@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Somethiung added here.
+=======
+this was added in 2 after 1.
+>>>>>>> 4211d0254937886bc4467271700beec5e9428537
 =======
 this was added in 2 after 1.
 >>>>>>> 4211d0254937886bc4467271700beec5e9428537
